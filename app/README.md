@@ -1,1 +1,1 @@
-# Java Android Example Calculator App
+# Java Android Example SIM Info App
